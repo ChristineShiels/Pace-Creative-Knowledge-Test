@@ -21,7 +21,7 @@
 
     - 'series' => taxonomy IDs 20, 21, 22 OR 23
 
-    with
+    with (AND)
 
-      - 'year' => 2000 OR 'available' => 0
+       - 'year' => 2000 OR 'available' => 0
  
