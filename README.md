@@ -15,13 +15,13 @@
     The meta query also further filters the results by post meta, possibly ACF fields, to only those 'year' fields with a value of 2000, OR an 'available' value of 0.
 
     To sum up, it will generate a list of published 'disney' posts with the following parameters:
-- 'movies' => 'el-gato-con-botas' OR 'blanca-nieves'
+    - 'movies' => 'el-gato-con-botas' OR 'blanca-nieves'
     
     that also have (AND)    
 
-    'series' => taxonomy IDs 20, 21, 22 OR 23
+    - 'series' => taxonomy IDs 20, 21, 22 OR 23
 
     with
 
- - 'year' => 2000 OR 'available' => 0
+      - 'year' => 2000 OR 'available' => 0
  
