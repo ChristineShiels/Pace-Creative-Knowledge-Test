@@ -5,7 +5,8 @@
     This would ensure that I was working off the latest code from the live site, so as not to inadvertently add any unfinished or untested code from staging or other git branches, and also document the changes I made in a separate branch.
 ---
 2. (see single.php file in repository)
-For this question, I added the WordPress Hook to the single.php template file from the Twenty-Twenty***** WordPress theme.
+
+    For this question, I added the WordPress Hook to the single.php template file from the Twenty-Twenty***** WordPress theme.
 ---
 3. This query will display results of published posts from a Custom Post Type (CPT) called 'disney.' They will display 5 per page in alphabetical order of Post Title.
 
@@ -15,10 +16,12 @@ For this question, I added the WordPress Hook to the single.php template file fr
 
     To sum up, it will generate a list of published 'disney' posts with the following parameters:
 - 'movies' => 'el-gato-con-botas' OR 'blanca-nieves'
-that also have (AND)
-'series' => taxonomy IDs 20, 21, 22 OR 23
+    
+    that also have (AND)    
 
-with
+    'series' => taxonomy IDs 20, 21, 22 OR 23
+
+    with
 
  - 'year' => 2000 OR 'available' => 0
  
