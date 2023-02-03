@@ -6,7 +6,7 @@
 ---
 2. (see question2.php file in repository)
 
-    For this question, I fisrt added custom fields to the user profiles using a WordPress action hook so each author can enter their social links, then I appended these links to the title using a filter hook.
+    For this question, I first added custom fields to the user profiles using a WordPress action hook so each author can enter their social links, then I appended these links to the title using a filter hook.
 ---
 3. This query will display results of published posts from a Custom Post Type (CPT) called 'disney.' They will display 5 per page in alphabetical order of Post Title.
 
