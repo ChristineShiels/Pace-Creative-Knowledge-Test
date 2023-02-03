@@ -1,4 +1,4 @@
-# Pace Creative Knowledge Test Responses - Chrisitne Shiels
+# Pace Creative Knowledge Test Responses - Christine Shiels
 
 1. If there is a difference between live, staging, and git and I need to add a functionality, I would add a branch to the git and fetch the code from the live site to add my new code to.
 
