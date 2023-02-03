@@ -4,9 +4,9 @@
 
     This would ensure that I was working off the latest code from the live site, so as not to inadvertently add any unfinished or untested code from staging or other git branches, and also document the changes I made in a separate branch.
 ---
-2. (see single.php file in repository)
+2. (see question2.php file in repository)
 
-    For this question, I added the WordPress Hook to the single.php template file from the Twenty-Twenty***** WordPress theme.
+    For this question, I fisrt added custom fields to the user profiles using a WordPress action hook so each author can enter their social links, then I appended these links to the title using a filter hook.
 ---
 3. This query will display results of published posts from a Custom Post Type (CPT) called 'disney.' They will display 5 per page in alphabetical order of Post Title.
 
